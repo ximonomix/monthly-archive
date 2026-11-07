@@ -8,7 +8,7 @@ Each monthly archive brings together material from community discussions, Discor
 
 ### 2026
 
-- [October 2026 — Knowledge Archive](October-2026-Archive.md)
+- [October 2026 — Knowledge Archive](October-2026.md)
 
 ## About this archive
 
