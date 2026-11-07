@@ -10,4 +10,4 @@ A subject-based synthesis of Resonant community discussions, technical experimen
 [October 2026 — Complete Recording Index](references/October-2026-recordings.md)
 ---
 
-For the full list of meeting recordings and video chapters, see the [October 2026 Recording Index](references/October-2026-recordings.md).
+For the full list of meeting recordings and video chapters, see the [October 2026 Recording Index](October-2026-recordings.md).
