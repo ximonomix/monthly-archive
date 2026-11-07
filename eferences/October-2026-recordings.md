@@ -8,3 +8,6 @@ October recording index
 A subject-based synthesis of Resonant community discussions, technical experiments, projects and shared learning. Includes direct links to original Discord discussions and timestamped YouTube recordings.
 
 [October 2026 — Complete Recording Index](references/October-2026-recordings.md)
+---
+
+For the full list of meeting recordings and video chapters, see the [October 2026 Recording Index](references/October-2026-recordings.md).
